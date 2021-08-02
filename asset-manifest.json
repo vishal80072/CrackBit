@@ -1,8 +1,8 @@
 {
   "files": {
     "main.css": "/CrackBit/static/css/main.a617e044.chunk.css",
-    "main.js": "/CrackBit/static/js/main.e03966d4.chunk.js",
-    "main.js.map": "/CrackBit/static/js/main.e03966d4.chunk.js.map",
+    "main.js": "/CrackBit/static/js/main.e5c09efc.chunk.js",
+    "main.js.map": "/CrackBit/static/js/main.e5c09efc.chunk.js.map",
     "runtime-main.js": "/CrackBit/static/js/runtime-main.6660f6bc.js",
     "runtime-main.js.map": "/CrackBit/static/js/runtime-main.6660f6bc.js.map",
     "static/js/2.fda8fa28.chunk.js": "/CrackBit/static/js/2.fda8fa28.chunk.js",
@@ -11,13 +11,12 @@
     "static/js/3.c1922068.chunk.js.map": "/CrackBit/static/js/3.c1922068.chunk.js.map",
     "index.html": "/CrackBit/index.html",
     "static/css/main.a617e044.chunk.css.map": "/CrackBit/static/css/main.a617e044.chunk.css.map",
-    "static/js/2.fda8fa28.chunk.js.LICENSE.txt": "/CrackBit/static/js/2.fda8fa28.chunk.js.LICENSE.txt",
-    "static/media/logo.6ce24c58.svg": "/CrackBit/static/media/logo.6ce24c58.svg"
+    "static/js/2.fda8fa28.chunk.js.LICENSE.txt": "/CrackBit/static/js/2.fda8fa28.chunk.js.LICENSE.txt"
   },
   "entrypoints": [
     "static/js/runtime-main.6660f6bc.js",
     "static/js/2.fda8fa28.chunk.js",
     "static/css/main.a617e044.chunk.css",
-    "static/js/main.e03966d4.chunk.js"
+    "static/js/main.e5c09efc.chunk.js"
   ]
 }
